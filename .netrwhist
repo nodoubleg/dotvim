@@ -1,3 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/Volumes/Secure/repos/puppet/modules/shorewall/manifests/rules/puppet'
+let g:netrw_dirhist_2='/var/lib/quassel'
+let g:netrw_dirhist_3='/lxd/images'
+let g:netrw_dirhist_4='/etc/sudoers.d'
+let g:netrw_dirhist_5='/etc/systemd/network'
+let g:netrw_dirhist_6='/home/gmason/.juju/environments'
+let g:netrw_dirhist_7='/etc/dbus-1/system.d'
+let g:netrw_dirhist_8='/etc/NetworkManager/conf.d'
